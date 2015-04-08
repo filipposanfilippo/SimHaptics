@@ -1,0 +1,8 @@
+EXPORTS
+    Initialize @1
+    InitializeRun @2
+    LastErrorMessage @3
+    RegisterModelPath @4
+    Terminate @5
+    TerminateRun @6
+    omega7 @7
